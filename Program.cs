@@ -15,7 +15,7 @@ namespace Program
     Console.WriteLine("My name=" + name);
         Console.WriteLine("My age=" + age);
         Console.WriteLine("My address=" + add);
-            
+            okokok
             String SUBString = add.Substring(add.IndexOf("a"));
             Console.WriteLine("Final SubString====="+SUBString);
 
